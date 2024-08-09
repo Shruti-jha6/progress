@@ -4,3 +4,85 @@
     font-family: 'poppins','sans-serif';
     box-sizing : border-box;
 }
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    mar
+   
+    align-items: center;
+    background: linear-gradient(rgb(191, 191, 243),rgb(133, 133, 209),rgb(116, 116, 240),rgb(88, 88, 235));
+}
+.block{
+    width:60%;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 10%;
+    padding:40px 30px 60%;
+    border-radius: 20px;
+}
+.container h1{
+   
+    display: flex;
+   
+    align-items: center;
+    justify-content: center;
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(245, 196, 161);
+    border-radius: 50px 50px ;
+    padding: 2%;
+    padding-left: 10%;
+    margin: 5%;
+}
+input{
+    flex:1;
+    border:none;
+    outline: none;
+    background: transparent;
+    border-radius: 50px 50px ;
+
+}
+button{
+    border: none;
+    outline: none;
+    padding: 2%;
+    border-radius: 40px ;
+    background: rgb(192, 134, 111);
+    color: white;
+
+}
+ul li{
+    display: flex;
+    list-style: none;
+    padding: 2%;
+}
+ul li.check{
+    columns: red;
+    text-decoration: line-through;
+}
+ul li span{
+    position:absolute;
+    right: 0;
+    top: 5px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2%;
+    padding: 2%;
+    color: red;
+    border-radius: 50%;
+    
+}
+ul li span:hover{
+    background: rgb(172, 12, 12);
+}
