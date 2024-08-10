@@ -1,3 +1,3 @@
-live link of todo website- https://66b7396ecc77730c44d9bf49--toodoom.netlify.app/
+🔗live link of todo website- https://66b7396ecc77730c44d9bf49--toodoom.netlify.app/
 
 I have created this website as a personal productivity tool to help me organize, mark, and maintain my tasks. It's designed to track everything I need to do, allowing me to clearly see which tasks I've already created and which ones I need to tackle next. To build this site, I used HTML, CSS, and JavaScript, ensuring a user-friendly interface and smooth functionality. By having a dedicated space to manage my to-do list, I can better prioritize my responsibilities and ensure that nothing falls through the cracks. This website serves as my go-to resource for staying on top of my goals and making sure I complete each task efficiently and on time.
